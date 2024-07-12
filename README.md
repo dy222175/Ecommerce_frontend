@@ -3,14 +3,7 @@
 
 Hi! My name is **Deepak Yadav**, and I have created this MERN Stack Web App.
 
-## Prerequisites
-
-To get started, ensure you have basic knowledge of the following technologies:
-- **Node.js**
-- **React**
-- **Express**
-- **MongoDB**
-
+ 
 ## Install Dependencies
 
 First, navigate to the Frontend directory and then install the necessary dependencies and start the development server:
@@ -25,6 +18,28 @@ npm install
 # Start development server
 npm run dev
 ```
+## Env Variables
+
+Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
+
+**Essential Variables**
+PORT=
+DB_URI =
+STRIPE_API_KEY=
+STRIPE_SECRET_KEY=
+JWT_SECRET=
+JWT_EXPIRE=
+COOKIE_EXPIRE=
+SMPT_SERVICE =
+SMPT_MAIL=
+SMPT_PASSWORD=
+SMPT_HOST=
+SMPT_PORT=
+CLOUDINARY_NAME
+CLOUDINARY_API_KEY
+CLOUDINARY_API_SECRET
+_fill each filed with your info respectively_
+
 
 ## Screenshots
 
@@ -66,7 +81,7 @@ npm run dev
 
 ### Coupon Created By Admin
 ![Coupon Created By Admin](https://github.com/user-attachments/assets/e0d074a7-0c12-401c-a4af-e29222447113)
-```
+
 
  
 
