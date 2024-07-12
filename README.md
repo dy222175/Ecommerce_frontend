@@ -1,4 +1,4 @@
-# MERN E-COMMERCE SERVER
+# MERN E-COMMERCE Frontend
 
 Hi! My name is **Deepak Yadav**, I have created this MERN Stack Web App.
 
