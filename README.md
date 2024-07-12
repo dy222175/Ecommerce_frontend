@@ -1,51 +1,90 @@
-Here's a more attractive and well-structured `README.md` file for your MERN E-Commerce Frontend project:
-
-```markdown
-# MERN E-Commerce Frontend
+# MERN E-Commerce Project: Frontend
 
 Hi! My name is **Deepak Yadav**, and I have created this MERN Stack Web App.
 
-## Prerequisite
+## Prerequisites
 
-To get started, ensure you have basic knowledge of **Node.js**, **React**, **Express**, and **MongoDB**.
+To get started, ensure you have basic knowledge of the following technologies:
+- **Node.js**
+- **React**
+- **Express**
+- **MongoDB**
 
 ## Install Dependencies
 
-### For Development
+First, navigate to the Frontend directory and then install the necessary dependencies and start the development server:
 
-Run the following command to install dependencies and start the development server:
 ```sh
-npm install && npm run dev
-```
+# Go to Frontend directory
+cd Ecommerce_frontend
 
-### For Production
+# Install dependencies
+npm install
 
-Run the following command to install dependencies and preview the production build:
-```sh
-npm install && npm run preview
-```
+# Start development server
+npm run dev
 
-## Environment Variables
 
-Make sure to create a `.env` file in the root directory and add the appropriate variables to use the app.
+ # Home Page
 
-### Essential Variables
-```
-VITE_FIREBASE_KEY=your_firebase_key
-VITE_AUTH_DOMAIN=your_firebase_auth_domain
-VITE_PROJECT_ID=your_firebase_project_id
-VITE_STORAGE_BUCKET=your_firebase_storage_bucket
-VITE_MESSAGING_SENDER_ID=your_firebase_messaging_sender_id
-VITE_APP_ID=your_firebase_app_id
-VITE_SERVER=your_backend_server_url
-VITE_STRIPE_KEY=your_stripe_publishable_key
-```
-_Fill each field with your respective information._
-
-## Author
-
-Connect with me on social media:
-
-- **Instagram**: [@deepakydv_62](https://www.instagram.com/deepakydv_62/)
-- **LinkedIn**: [@Deepak Yadav](https://www.linkedin.com/in/deepak-yadav-1b8b49224/)
  
+<img width="1440" alt="Screenshot 2024-07-13 at 1 21 05 AM" src="https://github.com/user-attachments/assets/f634a950-1e56-44e7-9822-3a5777ca5316">
+
+
+# Home Page with filter by Categeory and Price
+
+
+<img width="1440" alt="Screenshot 2024-07-13 at 1 21 42 AM" src="https://github.com/user-attachments/assets/08344e34-a1fd-4e40-bf0d-17ac5314a1a6">
+
+
+# CheckOut Page
+
+
+ 
+<img width="1440" alt="Screenshot 2024-07-13 at 1 24 53 AM" src="https://github.com/user-attachments/assets/e5b1a103-51b3-4d51-8fff-1e60b5ab793d">
+
+
+
+# Payment Page
+
+
+
+<img width="1440" alt="Screenshot 2024-07-13 at 1 25 42 AM" src="https://github.com/user-attachments/assets/d06dfdcd-68c7-4b39-a81f-190e7ea72ae4">
+
+
+
+# Admin 
+
+
+
+<img width="1440" alt="Screenshot 2024-07-13 at 1 26 04 AM" src="https://github.com/user-attachments/assets/5470b6a1-24a4-43c3-a5e8-d011bba61553">
+
+
+# Admin Dashboard 
+<img width="1440" alt="Screenshot 2024-07-13 at 1 26 26 AM" src="https://github.com/user-attachments/assets/02368b61-3908-4b52-9ce7-489119b6d6a8">
+
+# Product Listing
+<img width="1440" alt="Screenshot 2024-07-13 at 1 27 01 AM" src="https://github.com/user-attachments/assets/1580862d-e7be-4129-9fc7-d93a978ea671">
+
+#     Product Listing and Manage Product
+<img width="1440" alt="Screenshot 2024-07-13 at 1 27 15 AM" src="https://github.com/user-attachments/assets/af6fc922-4cee-4349-b559-6b4b1d754c8b">
+
+# Get All Admin and User
+<img width="1440" alt="Screenshot 2024-07-13 at 1 27 24 AM" src="https://github.com/user-attachments/assets/d6907309-eef3-4e5b-ae41-fdcc665b4430">
+
+
+ # Top Product and And Top Customer
+ <img width="1440" alt="Screenshot 2024-07-13 at 1 27 36 AM" src="https://github.com/user-attachments/assets/16a069c8-9f05-4b35-9c29-7b01feaa90f8">
+
+ # Product Categeory Ratio
+
+<img width="1440" alt="Screenshot 2024-07-13 at 1 28 28 AM" src="https://github.com/user-attachments/assets/87691a69-f1c0-4b93-abdf-6b8ce64105fc">
+
+# Top Products Selling
+
+![image](https://github.com/user-attachments/assets/c37b9625-6b6b-460a-b53e-83b2eaff3795)
+
+# Coupon Created By Admin
+<img width="1440" alt="Screenshot 2024-07-13 at 1 28 53 AM" src="https://github.com/user-attachments/assets/e0d074a7-0c12-401c-a4af-e29222447113">
+
+
