@@ -22,7 +22,8 @@ npm run dev
 
 Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
 
-**Essential Variables**
+### Essential Variables
+```plaintext
 PORT=
 DB_URI =
 STRIPE_API_KEY=
@@ -39,7 +40,7 @@ CLOUDINARY_NAME
 CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET
 _fill each filed with your info respectively_
-
+```
 
 ## Screenshots
 
