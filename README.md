@@ -1,42 +1,51 @@
-# MERN E-COMMERCE FRONTEND
+Here's a more attractive and well-structured `README.md` file for your MERN E-Commerce Frontend project:
 
-Hi! My name is **Deepak Yadav**, I have created this MERN Stack Web App.
+```markdown
+# MERN E-Commerce Frontend
 
-# Prerequisite
+Hi! My name is **Deepak Yadav**, and I have created this MERN Stack Web App.
 
-1.  Must have basic knowledge of **Node**, **React**, **Express**, **MongoDB** .
+## Prerequisite
 
-# Install Dependencies
+To get started, ensure you have basic knowledge of **Node.js**, **React**, **Express**, and **MongoDB**.
 
-**For Dev** - `npm i && npm run dev`
-**For Product** - `npm i && npm run preview`
+## Install Dependencies
 
-## Env Variables
+### For Development
 
-Make Sure to Create a .env file in root directory and add appropriate variables in order to use the app.
+Run the following command to install dependencies and start the development server:
+```sh
+npm install && npm run dev
+```
 
-**Essential Variables**
+### For Production
 
-VITE_FIREBASE_KEY= `from firebase`
+Run the following command to install dependencies and preview the production build:
+```sh
+npm install && npm run preview
+```
 
-VITE_AUTH_DOMAIN= `from firebase`
+## Environment Variables
 
-VITE_PROJECT_ID=`from firebase`
+Make sure to create a `.env` file in the root directory and add the appropriate variables to use the app.
 
-VITE_STORAGE_BUCKET=`from firebase`
-
-VITE_MESSAGING_SENDER_ID=`from firebase`
-
-VITE_APP_ID=`from firebase`
-
-VITE_SERVER=`Your Backend Server URl`
-
-VITE_STRIPE_KEY=`Stripe Publishable Key`
-
-_fill each filed with your info respectively_
+### Essential Variables
+```
+VITE_FIREBASE_KEY=your_firebase_key
+VITE_AUTH_DOMAIN=your_firebase_auth_domain
+VITE_PROJECT_ID=your_firebase_project_id
+VITE_STORAGE_BUCKET=your_firebase_storage_bucket
+VITE_MESSAGING_SENDER_ID=your_firebase_messaging_sender_id
+VITE_APP_ID=your_firebase_app_id
+VITE_SERVER=your_backend_server_url
+VITE_STRIPE_KEY=your_stripe_publishable_key
+```
+_Fill each field with your respective information._
 
 ## Author
 
-**Instagram** Click [Here](https://www.instagram.com/deepakydv_62/) **@deepakydv_62**
+Connect with me on social media:
 
-**LinkedIn** Click [Here](https://www.linkedin.com/in/deepak-yadav-1b8b49224/) **@Deepak Yadav**
+- **Instagram**: [@deepakydv_62](https://www.instagram.com/deepakydv_62/)
+- **LinkedIn**: [@Deepak Yadav](https://www.linkedin.com/in/deepak-yadav-1b8b49224/)
+ 
